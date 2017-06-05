@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Specijaliteti>
+	<Jelo>
+		<Naziv>Pizza</Naziv>
+		<Kalorije>266</Kalorije>
+		<Sastojci>brašno, voda, sol, kvasac, umak od rajčice, razni dodaci</Sastojci>
+		<Opis>Pizza je vrsta jela koje potječe iz Talijanske kuhinje (posebno iz napolitanske regije), a koja se sastoji od tankog, najčešće okruglog tijesta premazanog umakom od rajčice, na koje se zatim stavljaju razni dodatci, prije svega sir (izvorno mozzarella), a zatim se peče u krušnoj peći.Naša ponuda je široka, od klasičnih talijanskih pizza kao što su Margheria (rajčica i sir), Capricciosa (rajčica, sir, šunka, gljive, masline) do više egzotičnih specijaliteta poput pizze Frutti di mare (plodovi mora, rajčica, sir, školjke, repići kozica, srdele, maslinovo ulje, peršin).</Opis>
+		<Slika>images/spec_pizza.jpg</Slika>
+	</Jelo>
+	<Jelo>
+		<Naziv>Palačinke</Naziv>
+		<Kalorije>227</Kalorije>
+		<Sastojci>jaja, brašno, voda, sol, ulje, razni dodaci</Sastojci>
+		<Opis>U drevnoj Mezopotamiji, Indiji i drugim drevnim civilizacijama Bogove su hranili slatkišima. Suho voće i med su vjerojatno bili prvi zaslađivači koji su se koristili u većini svijeta, ali širenje šećerne trske diljem svijeta bilo je bitno za razvoj deserta koji je danas ključni dio svake dobre kuhinje. Dobar desert je važan zato što je kao točka na kraju rečenice. Nakon ukusnog ručka dolazi slasni završni obrok ili piće. Kod nas je izbor širok, od Američkih palačinki, torta sa lješnjacima, rolada, biskvita, pita, muffina do likera i jagoda u vinu.</Opis>
+		<Slika>images/spec_palacinke.jpg</Slika>
+	</Jelo>
+	<Jelo>
+		<Naziv>Kotleti u umaku od gljiva</Naziv>
+		<Kalorije>321</Kalorije>
+		<Sastojci>svinjski kotleti, šampinjoni, vrhnje, bijelo vino, sol, papar, peršin</Sastojci>
+		<Opis>Odlučili smo podijeliti neke recepte za čitatelje ovog portala. Za početak trebamo posoliti, poprapriti i malo zarezati kotlete po rubovima, zatim ga prepržiti nekoliko minuta sa svake strane na vrućem ulju i maslacu (zajedno). Tko voli, može dodati i češnjaka. Podliti s vinom i kad ono većim dijelom ispari dodati umak od šampinjona (može biti i boično vrhnje za kuhanje, no ovako je puno ukusnije). Vratiti u posudu ranije ispečene odreske i sve skupa zajedno dinstati nekih deset do petnaest minuta. Poslužiti s kuhanom rižom, tjesteninom, pire krumpirom. Salatu također izaberite prema vlastitom ukusu.</Opis>
+		<Slika>images/spec_odrezak_gljive.jpg</Slika>
+	</Jelo>
+	<Jelo>
+		<Naziv>Svinjeći odrezak</Naziv>
+		<Kalorije>271</Kalorije>
+		<Sastojci>svinjski kotleti, sol, papar, peršin, ostali začini</Sastojci>
+		<Opis>Da bi vam iskustvo pripreme bilo savršeno podijelili smo i neke savjete za pripremu odreska u tavi i pećnici. Za idealan odrezak meso izvadite barem sat vremena ranije iz hladnjaka i držite ga na sobnoj temperaturi. Ako je marinirano, dobro ga obrišite papirnatim kuhinjskim ubrusom da skinete što više marinade i spriječite zagorijevanje i dim. Tava treba biti jako ugrijana. Kada je riječ o željeznim, gusanim tavama i grill tavama, koje se nakon korištenja zaštićuju premazivanjem tankim slojem neke masnoće, da su doista dovoljno vruće, primjetit ćete kad iz tave počne lagano dimiti. Ostavite neko vrijeme da ta postojeća masnoća izgori, time ste sigurni da vam je tava doista postigla dovoljno visoku temperaturu.</Opis>
+		<Slika>images/spec_odrezak.jpg</Slika>
+	</Jelo>
+	<Jelo>
+		<Naziv>Američka pizza</Naziv>
+		<Kalorije>266</Kalorije>
+		<Sastojci>brašno, voda, sol, kvasac, umak od rajčice, sir, pepperoni</Sastojci>
+		<Opis>Jedna od najpoznatijih pizza svijeta je Američka pepperoni pizza. Tijesto pripremamo tako da razmutimo kvasac sa šećerom u mlakoj vodi te ostavimo da nabubri kroz petnaest minuta. Dodati brašno i sol te izmjesiti glatko tijesto nakon čega ga ostavljamo da se dvadeset minuta diže. Za umak od rajčice dinstajte na malo ulja nasjeckani luk i pritisnuti češnjak te dodajte rajčicu. Sve zajedno pasirajte, dodajte vegetu i mljevenu slatku papriku uz malo šećera.Dignuto tijesto promiješajte, razvaljajte te stavite u pekač. Tijesto poškrapajte napravljenim umakom od rajčice. Pomiješajte zajedno mozzarellu i gaudu te rasporedite po površini pizze. Peći na 200 stupnjeva petnaest do dvadeset minuta.</Opis>
+		<Slika>images/spec_odrezak.jpg</Slika>
+	</Jelo>
+	<Jelo>
+		<Naziv>Hamburger</Naziv>
+		<Kalorije>295</Kalorije>
+		<Sastojci>mljeveno meso(govedina), pecivo, sol, ulje, luk, persin, papar, sir, ketchup, ostali dodaci</Sastojci>
+		<Opis>Hamburger je vrsta sendviča u okruglom pecivu, a ista riječ može se upotrijebiti i za kosani odrezak od goveđeg mesa koji se najčešće stavlja u pecivo prilikom izrade takvog sendviča. Mesnom odresku, koji je osnovni sastojak hamburgera, obično se pridodaje povrće poput zelene salate, luka i kiselih krastavaca, te razni umaci poput kečapa, gorušice ili majoneze, a popularni su i hamburgeri u kojima se ranije spomenutim sastojcima pridodaje i nekoliko krišaka sira. Hamburger sa sirom još se naziva i cheeseburger, budući da na engleskom jeziku "cheese" znači sir.</Opis>
+		<Slika>images/spec_hamburger.jpeg</Slika>
+	</Jelo>
+</Specijaliteti>
