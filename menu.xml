@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Menu>
+	<Jelo vrsta="Predjelo">
+		<Naziv>Pileća juha</Naziv>
+		<Cijena>12</Cijena>
+	</Jelo>
+	<Jelo vrsta="Predjelo">
+		<Naziv>Goveđa juha</Naziv>
+		<Cijena>12</Cijena>
+	</Jelo>
+	<Jelo vrsta="Predjelo">
+		<Naziv>Juha od gljliva</Naziv>
+		<Cijena>15</Cijena>
+	</Jelo>
+	<Jelo vrsta="Predjelo">
+		<Naziv>Juha od Rajčice</Naziv>
+		<Cijena>15</Cijena>
+	</Jelo>
+	<Jelo vrsta="Predjelo">
+		<Naziv>Carpaccio</Naziv>
+		<Cijena>25</Cijena>
+	</Jelo>
+	<Jelo vrsta="Glavno jelo">
+		<Naziv>Odrazak</Naziv>
+		<Cijena>45</Cijena>
+	</Jelo>
+	<Jelo vrsta="Glavno jelo">
+		<Naziv>Rigatoni - gljive</Naziv>
+		<Cijena>40</Cijena>
+	</Jelo>
+	<Jelo vrsta="Glavno jelo">
+		<Naziv>Riblji filet</Naziv>
+		<Cijena>38</Cijena>
+	</Jelo>
+	<Jelo vrsta="Glavno jelo">
+		<Naziv>Shakshouka</Naziv>
+		<Cijena>40</Cijena>
+	</Jelo>
+	<Jelo vrsta="Prilog">
+		<Naziv>Cezar salata</Naziv>
+		<Cijena>18</Cijena>
+	</Jelo>
+	<Jelo vrsta="Prilog">
+		<Naziv>Grah salata</Naziv>
+		<Cijena>20</Cijena>
+	</Jelo>
+	<Jelo vrsta="Prilog">
+		<Naziv>Krumpir</Naziv>
+		<Cijena>17</Cijena>
+	</Jelo>
+	<Jelo vrsta="Desert">
+		<Naziv>Makove ledene kocke</Naziv>
+		<Cijena>15</Cijena>
+	</Jelo>
+	<Jelo vrsta="Desert">
+		<Naziv>Torta od jagoda</Naziv>
+		<Cijena>25</Cijena>
+	</Jelo>
+	<Jelo vrsta="Desert">
+		<Naziv>Vafli</Naziv>
+		<Cijena>14</Cijena>
+	</Jelo>
+	<Jelo vrsta="Desert">
+		<Naziv>Kokos kuglice</Naziv>
+		<Cijena>18</Cijena>
+	</Jelo>
+</Menu>
